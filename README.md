@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/MCP-I_build_servers-1a1a2e?style=for-the-badge" alt="MCP" />
   <img src="https://img.shields.io/badge/RAG_%2B_Evals-2E7D32?style=for-the-badge" alt="RAG + Evals" />
+  <img src="https://img.shields.io/badge/Vector_Search-0D9488?style=for-the-badge" alt="Vector search" />
   <img src="https://img.shields.io/badge/Tool_Use-B45309?style=for-the-badge" alt="Tool use" />
   <img src="https://img.shields.io/badge/Subagents-7C3AED?style=for-the-badge" alt="Subagents" />
   <img src="https://img.shields.io/badge/Agent_Skills-0EA5E9?style=for-the-badge" alt="Agent skills" />
