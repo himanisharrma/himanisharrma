@@ -26,32 +26,48 @@
 
 ---
 
-### 🛠️ Tech I Build With
+### 🛠️ Tech & AI Toolkit
+
+**Engineering stack**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,javascript,python,flask,mysql,postgres,sqlite,aws,docker,git,githubactions,figma&perline=8" alt="Tech stack" />
 </p>
 
+**How I build with AI**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/MCP-builder-1a1a2e?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/OpenAI_/_GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI / GPT" />
+  <img src="https://img.shields.io/badge/MCP-I_build_servers-1a1a2e?style=for-the-badge" alt="MCP" />
   <img src="https://img.shields.io/badge/RAG_%2B_Evals-2E7D32?style=for-the-badge" alt="RAG + Evals" />
-  <img src="https://img.shields.io/badge/AWS_Rekognition_%2F_Textract-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS AI" />
+  <img src="https://img.shields.io/badge/Structured_Outputs-5C6BC0?style=for-the-badge" alt="Structured outputs" />
+  <img src="https://img.shields.io/badge/Prompt_Caching-00897B?style=for-the-badge" alt="Prompt caching" />
+  <img src="https://img.shields.io/badge/AWS_AI-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS AI" />
 </p>
+
+**My AI-native toolkit**
+
+| Layer | Tools |
+|---|---|
+| 🧠 LLMs & research | Claude · ChatGPT · Gemini · Perplexity · Grok · NotebookLM · M365 Copilot · open-weights (Llama / Mistral / DeepSeek) |
+| 💻 Coding & agents | Claude Code · Cursor · Windsurf · GitHub Copilot · OpenAI Codex · Replit · Devin |
+| ⚡ Build & prototype | Bolt · Lovable · v0 · Google AI Studio · Remotion |
+| 🔗 Agent engineering | MCP (I build servers) · RAG + evals · structured outputs · prompt caching · LangChain · n8n · Zapier · Make |
+| 📋 PM · design · collab | Notion AI · Jira · Linear · Figma · FigJam / Miro · ChatPRD |
+| 🎨 Multimodal & cloud | AWS Rekognition / Textract / Comprehend · vision-OCR · Midjourney / DALL·E / Ideogram · ElevenLabs |
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | What it is | Scale |
+| Project | What it is | Highlight |
 |---|---|---|
-| [**Identity-Verification-Amazon-Rekognition**](https://github.com/himanisharrma/Identity-Verification-Amazon-Rekognition) | Extended AWS's Rekognition identity-verification sample into a full **RBI Video-KYC platform** — WebRTC liveness + Maker-Checker on a 32-migration schema | **144K LOC · ~2,725 tests** |
-| [**rekyc-compliance-module**](https://github.com/himanisharrma/rekyc-compliance-module) | Periodic Re-KYC engine + **eval-measured RAG** over the RBI KYC Master Direction (BM25, prompt caching) | 25K LOC · evals 12/12 |
-| [**video-kyc-hackathon**](https://github.com/himanisharrma/video-kyc-hackathon) | Video KYC app + a **6-tool MCP server** with PII masking & human-gated verdicts | 6-tool MCP server |
-| [**re-kyc-with-landing-page**](https://github.com/himanisharrma/re-kyc-with-landing-page) | Full-stack **multi-role KYC platform** with bulk Excel-driven Re-KYC triggers | 55K LOC |
-| [**finverge-sales-skills**](https://github.com/himanisharrma/finverge-sales-skills) | **Claude Code plugin** automating sales collateral via a permission-aware dual knowledge base | 9-skill plugin |
-| [**payops-copilot**](https://github.com/himanisharrma/payops-copilot) | Evidence-first **payment-reconciliation** workspace | 6K LOC |
+| [**Identity-Verification-Amazon-Rekognition**](https://github.com/himanisharrma/Identity-Verification-Amazon-Rekognition) | Extended AWS's Rekognition identity-verification sample into a full **RBI Video-KYC platform** — WebRTC liveness + Maker-Checker on a 32-migration schema | **~3,000 tests · 32 migrations** |
+| [**rekyc-compliance-module**](https://github.com/himanisharrma/rekyc-compliance-module) | Periodic Re-KYC engine + **eval-measured RAG** over the RBI KYC Master Direction (BM25, prompt caching) | **12/12 eval pass** |
+| [**video-kyc-hackathon**](https://github.com/himanisharrma/video-kyc-hackathon) | Video KYC app + a **6-tool MCP server** with PII masking & human-gated verdicts | **6-tool MCP server** |
+| [**re-kyc-with-landing-page**](https://github.com/himanisharrma/re-kyc-with-landing-page) | Full-stack **multi-role KYC platform** with bulk Excel-driven Re-KYC triggers | **5-role workflow** |
+| [**finverge-sales-skills**](https://github.com/himanisharrma/finverge-sales-skills) | **Claude Code plugin** automating sales collateral via a permission-aware dual knowledge base | **8 Claude skills** |
+| [**payops-copilot**](https://github.com/himanisharrma/payops-copilot) | Evidence-first **payment-reconciliation** workspace | **evidence-first recon** |
 
 <p align="center"><i>🗂️ All case studies, architecture diagrams & my AI toolkit live in the <a href="https://github.com/himanisharrma/portfolio">portfolio hub →</a></i></p>
 
@@ -68,11 +84,10 @@
 ### 📊 By the Numbers
 
 <p align="center">
-  <b>~250K+ LOC shipped</b> across public repos &nbsp;·&nbsp; <b>~2,700+ automated tests</b> &nbsp;·&nbsp; a <b>6-tool MCP server</b> &nbsp;·&nbsp; <b>eval-measured RAG</b> &nbsp;·&nbsp; a <b>9-skill Claude Code plugin</b> &nbsp;·&nbsp; a <b>32-migration production schema</b>
+  a <b>6-tool MCP server</b> &nbsp;·&nbsp; a <b>12-case eval suite</b> over a grounded RAG pipeline &nbsp;·&nbsp; an <b>8-skill Claude Code plugin</b> &nbsp;·&nbsp; a <b>32-migration production schema</b> &nbsp;·&nbsp; <b>147 test files</b> (~3,000 automated tests) on the flagship
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=himanisharrma&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanisharrma&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
 
