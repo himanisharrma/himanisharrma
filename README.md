@@ -1,32 +1,83 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Himani Sharma
-======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Himani Sharma</h1>
+<h3 align="center">AI-Native Technical Product Manager · Fintech, KYC & Compliance</h3>
 
-AI-Native Technical Product Manager · Fintech, KYC & Compliance
----------------------------------------------------------------
-
-I turn regulatory requirements into AI-governed product systems — Video KYC, periodic Re-KYC, compliance workflows — built hands-on with agentic AI tooling.
-
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [AI PM Portfolio](https://github.com/himanisharrma/portfolio)
-* 🚀  I'm currently working on [AI-Governed Fintech Products](https://github.com/himanisharrma)
-* 🧠  I'm currently learning managed agents, computer-use agents, agentic search
-* 👥  I'm looking to collaborate on AI-native fintech & compliance products, MCP server projects
-* 💬  Ask me about AI-native PM · governed agentic workflows · building compliant fintech with Claude
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<p align="center">
+  I turn RBI regulation into AI-governed product systems — Video KYC, periodic Re-KYC,
+  and compliance workflows — designed, architected, and shipped hands-on with agentic AI tooling.
 </p>
 
-### Socials
+<p align="center">
+  <a href="https://www.linkedin.com/in/himanisharmaa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:himani1666@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://tropical-cobra-dbd.notion.site/Himani-Sharma-17019c594c268014ae2ece82732247a0"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=himanisharrma&style=for-the-badge&color=0A66C2&label=Profile+views" alt="Profile views"/>
+</p>
 
-<p align="left"> <a href="https://www.github.com/himanisharrma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/himanisharrma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+---
 
-### Badges
+### 🚀 About Me
 
-<b>My GitHub Stats</b>
+- 🔭 I build **compliance-grade fintech platforms** end-to-end: product strategy → architecture → code → tests → CI — a PM who ships
+- 🤖 Daily toolkit: **Claude Code** (subagents, skills, hooks, slash commands), **MCP servers** (I build them, not just use them), **RAG with evals**, structured outputs, prompt caching, CI review agents
+- ⚖️ Domain: **RBI Master Direction KYC** · V-CIP · Maker-Checker workflows · audit trails · PII discipline
+- 📐 Operating principle: *AI assists the workflow. Rules trigger the workflow. Humans approve the workflow. Audit logs protect the workflow.*
+- 🌱 Currently exploring: managed agents, computer-use agents, agentic search
+- 📫 Reach me at **himani1666@gmail.com** — full case studies & diagrams live in my [portfolio hub](https://github.com/himanisharrma/portfolio)
 
-<a href="http://www.github.com/himanisharrma"><img src="https://github-readme-stats.vercel.app/api?username=himanisharrma&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="himanisharrma's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/himanisharrma"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanisharrma&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🛠️ Tech I Build With
 
-<a href="https://github.com/himanisharrma" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanisharrma&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,javascript,python,flask,mysql,postgres,sqlite,aws,docker,git,githubactions,figma&perline=8" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/MCP-builder-1a1a2e?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/OpenAI_/_GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI / GPT" />
+  <img src="https://img.shields.io/badge/RAG_%2B_Evals-2E7D32?style=for-the-badge" alt="RAG + Evals" />
+  <img src="https://img.shields.io/badge/AWS_Rekognition_%2F_Textract-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS AI" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | What it is | Scale |
+|---|---|---|
+| [**Identity-Verification-Amazon-Rekognition**](https://github.com/himanisharrma/Identity-Verification-Amazon-Rekognition) | Extended AWS's Rekognition identity-verification sample into a full **RBI Video-KYC platform** — WebRTC liveness + Maker-Checker on a 32-migration schema | **144K LOC · ~2,725 tests** |
+| [**rekyc-compliance-module**](https://github.com/himanisharrma/rekyc-compliance-module) | Periodic Re-KYC engine + **eval-measured RAG** over the RBI KYC Master Direction (BM25, prompt caching) | 25K LOC · evals 12/12 |
+| [**video-kyc-hackathon**](https://github.com/himanisharrma/video-kyc-hackathon) | Video KYC app + a **6-tool MCP server** with PII masking & human-gated verdicts | 6-tool MCP server |
+| [**re-kyc-with-landing-page**](https://github.com/himanisharrma/re-kyc-with-landing-page) | Full-stack **multi-role KYC platform** with bulk Excel-driven Re-KYC triggers | 55K LOC |
+| [**finverge-sales-skills**](https://github.com/himanisharrma/finverge-sales-skills) | **Claude Code plugin** automating sales collateral via a permission-aware dual knowledge base | 9-skill plugin |
+| [**payops-copilot**](https://github.com/himanisharrma/payops-copilot) | Evidence-first **payment-reconciliation** workspace | 6K LOC |
+
+<p align="center"><i>🗂️ All case studies, architecture diagrams & my AI toolkit live in the <a href="https://github.com/himanisharrma/portfolio">portfolio hub →</a></i></p>
+
+---
+
+### 🧠 How I Work With AI
+
+| I design | I enforce | I measure |
+|---|---|---|
+| Agent workflows, context engineering, tool surfaces (MCP), FSM-driven lifecycles | Hooks & guardrails, PII masking at boundaries, human-in-the-loop gates, audit trails | Eval suites before shipping prompts, verification via browser agents, coverage targets |
+
+---
+
+### 📊 By the Numbers
+
+<p align="center">
+  <b>~250K+ LOC shipped</b> across public repos &nbsp;·&nbsp; <b>~2,700+ automated tests</b> &nbsp;·&nbsp; a <b>6-tool MCP server</b> &nbsp;·&nbsp; <b>eval-measured RAG</b> &nbsp;·&nbsp; a <b>9-skill Claude Code plugin</b> &nbsp;·&nbsp; a <b>32-migration production schema</b>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=himanisharrma&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanisharrma&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  💬 Ask me about: <b>AI-native product management · governed agentic workflows · building compliant fintech with Claude & GPT</b>
+</p>
