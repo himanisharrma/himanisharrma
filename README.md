@@ -50,11 +50,12 @@
 | Layer | Tools |
 |---|---|
 | 🧠 LLMs & research | Claude · ChatGPT · Gemini · Perplexity · Grok · NotebookLM · M365 Copilot · open-weights (Llama / Mistral / DeepSeek) |
-| 💻 Coding & agents | Claude Code · Cursor · Windsurf · GitHub Copilot · OpenAI Codex · Replit · Devin |
-| ⚡ Build & prototype | Bolt · Lovable · v0 · Google AI Studio · Remotion |
-| 🔗 Agent engineering | MCP (I build servers) · RAG + evals · structured outputs · prompt caching · LangChain · n8n · Zapier · Make |
-| 📋 PM · design · collab | Notion AI · Jira · Linear · Figma · FigJam / Miro · ChatPRD |
-| 🎨 Multimodal & cloud | AWS Rekognition / Textract / Comprehend · vision-OCR · Midjourney / DALL·E / Ideogram · ElevenLabs |
+| 💻 Coding & agents | Claude Code · Cursor · Windsurf · GitHub Copilot · OpenAI Codex · Replit · Devin · Claude computer-use · OpenAI Operator · Browser Use |
+| ⚡ Build & prototype | Bolt · Lovable · v0 · Google AI Studio · Figma Make · Galileo AI · Uizard · Framer AI · Remotion |
+| 🔗 Agent engineering | MCP (I build servers) · RAG + evals · structured outputs · prompt caching · LangChain · CrewAI · Flowise · n8n · Zapier · Make · Supabase |
+| 📋 PM · docs · design | Notion AI · Jira · Linear · Confluence (Rovo) · Productboard · ChatPRD · Figma · FigJam / Miro · Whimsical · Napkin AI · Mermaid |
+| 📊 Data · notes · research | ChatGPT Advanced Data Analysis · Claude analysis tool · vision-OCR · Otter · Fireflies |
+| 🎨 Multimodal & cloud | AWS Rekognition / Textract / Comprehend · Midjourney / DALL·E / Ideogram · Runway / Pika / Kling / Veo · HeyGen / Synthesia · ElevenLabs |
 
 ---
 
@@ -62,12 +63,12 @@
 
 | Project | What it is | Highlight |
 |---|---|---|
-| [**Identity-Verification-Amazon-Rekognition**](https://github.com/himanisharrma/Identity-Verification-Amazon-Rekognition) | Extended AWS's Rekognition identity-verification sample into a full **RBI Video-KYC platform** — WebRTC liveness + Maker-Checker on a 32-migration schema | **~3,000 tests · 32 migrations** |
-| [**rekyc-compliance-module**](https://github.com/himanisharrma/rekyc-compliance-module) | Periodic Re-KYC engine + **eval-measured RAG** over the RBI KYC Master Direction (BM25, prompt caching) | **12/12 eval pass** |
-| [**video-kyc-hackathon**](https://github.com/himanisharrma/video-kyc-hackathon) | Video KYC app + a **6-tool MCP server** with PII masking & human-gated verdicts | **6-tool MCP server** |
-| [**re-kyc-with-landing-page**](https://github.com/himanisharrma/re-kyc-with-landing-page) | Full-stack **multi-role KYC platform** with bulk Excel-driven Re-KYC triggers | **5-role workflow** |
-| [**finverge-sales-skills**](https://github.com/himanisharrma/finverge-sales-skills) | **Claude Code plugin** automating sales collateral via a permission-aware dual knowledge base | **8 Claude skills** |
-| [**payops-copilot**](https://github.com/himanisharrma/payops-copilot) | Evidence-first **payment-reconciliation** workspace | **evidence-first recon** |
+| [**Identity-Verification-Amazon-Rekognition**](https://github.com/himanisharrma/Identity-Verification-Amazon-Rekognition) | Extended AWS's Rekognition identity-verification sample into a full **RBI Video-KYC platform** — WebRTC liveness + Maker-Checker on a 32-migration schema | **144K LOC · ~3,000 tests** |
+| [**rekyc-compliance-module**](https://github.com/himanisharrma/rekyc-compliance-module) | Periodic Re-KYC engine + **eval-measured RAG** over the RBI KYC Master Direction (BM25, prompt caching) | **34K LOC · 12/12 evals** |
+| [**video-kyc-hackathon**](https://github.com/himanisharrma/video-kyc-hackathon) | Video KYC app + a **6-tool MCP server** with PII masking & human-gated verdicts | **9K LOC · 6-tool MCP** |
+| [**re-kyc-with-landing-page**](https://github.com/himanisharrma/re-kyc-with-landing-page) | Full-stack **multi-role KYC platform** with bulk Excel-driven Re-KYC triggers | **59K LOC · 5-role** |
+| [**finverge-sales-skills**](https://github.com/himanisharrma/finverge-sales-skills) | **Claude Code plugin** automating sales collateral via a permission-aware dual knowledge base | **17K LOC · 8 skills** |
+| [**payops-copilot**](https://github.com/himanisharrma/payops-copilot) | Evidence-first **payment-reconciliation** workspace | **11K LOC · recon** |
 
 <p align="center"><i>🗂️ All case studies, architecture diagrams & my AI toolkit live in the <a href="https://github.com/himanisharrma/portfolio">portfolio hub →</a></i></p>
 
@@ -84,7 +85,7 @@
 ### 📊 By the Numbers
 
 <p align="center">
-  a <b>6-tool MCP server</b> &nbsp;·&nbsp; a <b>12-case eval suite</b> over a grounded RAG pipeline &nbsp;·&nbsp; an <b>8-skill Claude Code plugin</b> &nbsp;·&nbsp; a <b>32-migration production schema</b> &nbsp;·&nbsp; <b>147 test files</b> (~3,000 automated tests) on the flagship
+  <b>300+ commits</b> &nbsp;·&nbsp; <b>~300K LOC</b> across public repos &nbsp;·&nbsp; a <b>6-tool MCP server</b> &nbsp;·&nbsp; a <b>12-case eval suite</b> over a grounded RAG pipeline &nbsp;·&nbsp; an <b>8-skill Claude Code plugin</b> &nbsp;·&nbsp; a <b>32-migration production schema</b> &nbsp;·&nbsp; <b>~3,000 automated tests</b>
 </p>
 
 <p align="center">
