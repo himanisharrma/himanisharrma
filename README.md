@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Himani Sharma</h1>
-<h3 align="center">AI-Native Technical Product Manager · Fintech, KYC & Compliance</h3>
+<h3 align="center">AI-Native Product Manager · Fintech</h3>
 
 <p align="center">
-  I turn RBI regulation into AI-governed product systems — Video KYC, periodic Re-KYC,
-  and compliance workflows — designed, architected, and shipped hands-on with agentic AI tooling.
+  Product manager for <b>AI-native products in fintech</b> — I own the arc from discovery and strategy
+  through roadmap, architecture, and launch. Rare for a PM, I also build hands-on. Most recently I took
+  <b>KYC, Re-KYC & compliance</b> platforms from zero to shipped with agentic AI tooling.
 </p>
 
 <p align="center">
@@ -17,10 +18,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I build **compliance-grade fintech platforms** end-to-end: product strategy → architecture → code → tests → CI — a PM who ships
-- 🤖 Daily toolkit: **Claude Code** (subagents, skills, hooks, slash commands), **MCP servers** (I build them, not just use them), **RAG with evals**, structured outputs, prompt caching, CI review agents
-- ⚖️ Domain: **RBI Master Direction KYC** · V-CIP · Maker-Checker workflows · audit trails · PII discipline
-- 📐 Operating principle: *AI assists the workflow. Rules trigger the workflow. Humans approve the workflow. Audit logs protect the workflow.*
+- 🎯 I own **AI-native products end-to-end** in fintech — discovery, strategy, roadmap, and delivery — turning ambiguous problems into shipped software
+- 🤖 **A PM who can build:** I prototype and ship with the agentic-AI toolkit (Claude Code, MCP, RAG/evals), so ideas become working products, not just decks
+- 🏦 Fintech across **KYC/RegTech, payments ops & GTM** — most recent depth: RBI KYC · V-CIP · Re-KYC · maker-checker · audit & PII
+- 📐 How I think about AI in products: *AI assists · rules decide · humans approve · logs prove*
 - 🌱 Currently exploring: managed agents, computer-use agents, agentic search
 - 📫 Reach me at **himani1666@gmail.com** — full case studies & diagrams live in my [portfolio hub](https://github.com/himanisharrma/portfolio)
 
@@ -59,7 +60,9 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Recent Work
+
+<p align="center"><i>Fintech, built end-to-end with AI — spanning KYC/RegTech, payments ops, and GTM automation.</i></p>
 
 | Project | What it is | Highlight |
 |---|---|---|
@@ -95,6 +98,6 @@
 ---
 
 <p align="center">
-  💬 Ask me about: <b>AI-native product management · governed agentic workflows · building compliant fintech with Claude & GPT</b>
+  💬 Ask me about: <b>AI-native product management · agentic product development · fintech (payments, KYC, RegTech)</b>
 </p>
 
