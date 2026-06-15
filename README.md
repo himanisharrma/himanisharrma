@@ -41,8 +41,17 @@
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/MCP-I_build_servers-1a1a2e?style=for-the-badge" alt="MCP" />
   <img src="https://img.shields.io/badge/RAG_%2B_Evals-2E7D32?style=for-the-badge" alt="RAG + Evals" />
+  <img src="https://img.shields.io/badge/Tool_Use-B45309?style=for-the-badge" alt="Tool use" />
+  <img src="https://img.shields.io/badge/Subagents-7C3AED?style=for-the-badge" alt="Subagents" />
+  <img src="https://img.shields.io/badge/Agent_Skills-0EA5E9?style=for-the-badge" alt="Agent skills" />
+  <img src="https://img.shields.io/badge/Guardrails-B91C1C?style=for-the-badge" alt="Guardrails" />
+  <img src="https://img.shields.io/badge/Human_in_the_Loop-0F766E?style=for-the-badge" alt="Human in the loop" />
   <img src="https://img.shields.io/badge/Structured_Outputs-5C6BC0?style=for-the-badge" alt="Structured outputs" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7E22CE?style=for-the-badge" alt="Prompt engineering" />
   <img src="https://img.shields.io/badge/Prompt_Caching-00897B?style=for-the-badge" alt="Prompt caching" />
+  <img src="https://img.shields.io/badge/Context_Engineering-4338CA?style=for-the-badge" alt="Context engineering" />
+  <img src="https://img.shields.io/badge/Vision_%2B_OCR-9333EA?style=for-the-badge" alt="Vision + OCR" />
+  <img src="https://img.shields.io/badge/CI_Agents-374151?style=for-the-badge" alt="CI agents" />
   <img src="https://img.shields.io/badge/AWS_AI-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS AI" />
 </p>
 
