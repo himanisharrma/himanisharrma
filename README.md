@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/RAG_%2B_Evals-2E7D32?style=for-the-badge" alt="RAG + Evals" />
   <img src="https://img.shields.io/badge/Vector_Search-0D9488?style=for-the-badge" alt="Vector search" />
   <img src="https://img.shields.io/badge/LLMOps-1E3A8A?style=for-the-badge" alt="LLMOps" />
+  <img src="https://img.shields.io/badge/Fine--tuning-7C2D12?style=for-the-badge" alt="Fine-tuning" />
   <img src="https://img.shields.io/badge/Tool_Use-B45309?style=for-the-badge" alt="Tool use" />
   <img src="https://img.shields.io/badge/Subagents-7C3AED?style=for-the-badge" alt="Subagents" />
   <img src="https://img.shields.io/badge/LangGraph-BE185D?style=for-the-badge" alt="LangGraph" />
