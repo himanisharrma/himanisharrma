@@ -19,10 +19,10 @@
 ### 🚀 About Me
 
 - 🎯 I own **AI-native products end-to-end** in fintech — discovery, strategy, roadmap, and delivery — turning ambiguous problems into shipped software
-- 🤖 **A PM who can build:** I prototype and ship with the agentic-AI toolkit (Claude Code, MCP, RAG/evals), so ideas become working products, not just decks
+- 🤖 **A PM who can build:** I prototype and ship hands-on across a broad, multi-vendor AI stack — coding agents, Cowork, MCP, RAG/evals, and more (full toolkit below) — so ideas become working products, not just decks
 - 🏦 Fintech across **KYC/RegTech, payments ops & GTM** — most recent depth: RBI KYC · V-CIP · Re-KYC · maker-checker · audit & PII
 - 📐 How I think about AI in products: *AI assists · rules decide · humans approve · logs prove*
-- 🌱 Currently exploring: managed agents, computer-use agents, agentic search
+- 🌱 Currently exploring: **multi-agent orchestration** — role-specialized agent pods, clean hand-offs, and reliability beyond a single agent
 - 📫 Reach me at **himani1666@gmail.com** — full case studies & diagrams live in my [portfolio hub](https://github.com/himanisharrma/portfolio)
 
 ---
@@ -32,7 +32,7 @@
 **Engineering stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,javascript,python,flask,mysql,postgres,sqlite,aws,docker,git,githubactions,figma&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,vite,nodejs,express,socketio,python,flask,postgres,mysql,sqlite,redis,sequelize,aws,docker,githubactions,jest,playwright,bash,git,figma&perline=9" alt="Tech stack" />
 </p>
 
 **How I build with AI**
@@ -51,7 +51,7 @@
 | Layer | Tools |
 |---|---|
 | 🧠 LLMs & research | Claude · ChatGPT · Gemini · Perplexity · Grok · NotebookLM · M365 Copilot · open-weights (Llama / Mistral / DeepSeek) |
-| 💻 Coding & agents | Claude Code · Cursor · Windsurf · GitHub Copilot · OpenAI Codex · Replit · Devin · Claude computer-use · OpenAI Operator · Browser Use |
+| 💻 Coding & agents | Claude Code · Cowork · Cursor · Windsurf · GitHub Copilot · OpenAI Codex · Replit · Devin · Claude computer-use · OpenAI Operator · Browser Use |
 | ⚡ Build & prototype | Bolt · Lovable · v0 · Google AI Studio · Figma Make · Galileo AI · Uizard · Framer AI · Remotion |
 | 🔗 Agent engineering | MCP (I build servers) · RAG + evals · structured outputs · prompt caching · LangChain · CrewAI · Flowise · n8n · Zapier · Make · Supabase |
 | 📋 PM · docs · design | Notion AI · Jira · Linear · Confluence (Rovo) · Productboard · ChatPRD · Figma · FigJam / Miro · Whimsical · Napkin AI · Mermaid |
