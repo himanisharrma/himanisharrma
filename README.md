@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/LLMOps-1E3A8A?style=for-the-badge" alt="LLMOps" />
   <img src="https://img.shields.io/badge/Tool_Use-B45309?style=for-the-badge" alt="Tool use" />
   <img src="https://img.shields.io/badge/Subagents-7C3AED?style=for-the-badge" alt="Subagents" />
+  <img src="https://img.shields.io/badge/LangGraph-BE185D?style=for-the-badge" alt="LangGraph" />
   <img src="https://img.shields.io/badge/Agent_Skills-0EA5E9?style=for-the-badge" alt="Agent skills" />
   <img src="https://img.shields.io/badge/Guardrails-B91C1C?style=for-the-badge" alt="Guardrails" />
   <img src="https://img.shields.io/badge/Human_in_the_Loop-0F766E?style=for-the-badge" alt="Human in the loop" />
