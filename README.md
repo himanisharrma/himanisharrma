@@ -79,7 +79,7 @@
 
 | Project | What it is | Highlight |
 |---|---|---|
-| [**Identity-Verification-Amazon-Rekognition**](https://github.com/himanisharrma/Identity-Verification-Amazon-Rekognition) | Extended AWS's Rekognition identity-verification sample into a full **RBI Video-KYC platform** — WebRTC liveness + Maker-Checker on a 32-migration schema | **144K LOC · ~3,000 tests** |
+| [**Identity-Verification-Amazon-Rekognition**](https://github.com/himanisharrma/Identity-Verification-Amazon-Rekognition) | Extended AWS's Rekognition identity-verification sample into a full **RBI Video-KYC platform** — WebRTC liveness + Maker-Checker on a 32-migration schema | **141K LOC · ~3,000 tests** |
 | [**rekyc-compliance-module**](https://github.com/himanisharrma/rekyc-compliance-module) | Periodic Re-KYC engine + **eval-measured RAG** over the RBI KYC Master Direction (BM25, prompt caching) | **34K LOC · 12/12 evals** |
 | [**video-kyc-hackathon**](https://github.com/himanisharrma/video-kyc-hackathon) | Video KYC app + a **6-tool MCP server** with PII masking & human-gated verdicts | **9K LOC · 6-tool MCP** |
 | [**re-kyc-with-landing-page**](https://github.com/himanisharrma/re-kyc-with-landing-page) | Full-stack **multi-role KYC platform** with bulk Excel-driven Re-KYC triggers | **59K LOC · 5-role** |
