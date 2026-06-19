@@ -2,15 +2,20 @@
 <h3 align="center">AI-Native Product Manager · Fintech</h3>
 
 <p align="center">
+  🌐 <b>Live portfolio</b> → <a href="https://himanisharrma.vercel.app"><b>himanisharrma.vercel.app</b></a>
+</p>
+
+<p align="center">
   Product manager for <b>AI-native products in fintech</b> — I own the arc from discovery and strategy
   through roadmap, architecture, and launch. Rare for a PM, I also build hands-on. Most recently I took
   <b>KYC, Re-KYC & compliance</b> platforms from zero to shipped with agentic AI tooling.
 </p>
 
 <p align="center">
+  <a href="https://himanisharrma.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-2EE6C5?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio"/></a>
   <a href="https://www.linkedin.com/in/himanisharmaa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:himani1666@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://tropical-cobra-dbd.notion.site/Himani-Sharma-17019c594c268014ae2ece82732247a0"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://tropical-cobra-dbd.notion.site/Himani-Sharma-17019c594c268014ae2ece82732247a0"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
   <img src="https://komarev.com/ghpvc/?username=himanisharrma&style=for-the-badge&color=0A66C2&label=Profile+views" alt="Profile views"/>
 </p>
 
