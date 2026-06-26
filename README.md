@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Himani Sharma</h1>
-<h3 align="center">Payments & Fintech PM · a PM who builds</h3>
+<h3 align="center">Payments & Fintech PM</h3>
 
 <p align="center">
   Consumer-fintech roots at Paytm, product ownership at a payments aggregator, now building with AI.
@@ -14,7 +14,6 @@
   <a href="https://www.linkedin.com/in/himanisharmaa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:himani1666@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://tropical-cobra-dbd.notion.site/Himani-Sharma-17019c594c268014ae2ece82732247a0"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
-  <img src="https://komarev.com/ghpvc/?username=himanisharrma&style=for-the-badge&color=0A66C2&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
@@ -32,7 +31,7 @@ I also build with AI, so the products I design, I can ship myself.
 | | |
 |---|---|
 | 💳 **Payments & Fintech** — consumer & B2B | UPI & payments · lending & cards · collections & payouts |
-| 🛠️ **A fintech PM who builds** | I use AI to turn product ideas into working software I can test and ship |
+| 🛠️ **Builds with AI** | I use AI to turn product ideas into working software I can test and ship |
 | 📈 **Commercial & Growth** | market research, GTM, pricing & positioning (the SabPaisa 3.0 launch) |
 | 🔁 **Reconciliation & Settlement** | PayOps — a self-built control room: match, net-settle, exception states |
 
@@ -69,7 +68,7 @@ I also build with AI, so the products I design, I can ship myself.
 
 ### How I build with AI
 
-<p align="center"><i>Working knowledge — the toolkit behind "a PM who builds." My rule: <b>AI assists · rules decide · humans approve · logs prove.</b></i></p>
+<p align="center"><i>Working knowledge — my day-to-day AI toolkit. My rule: <b>AI assists · rules decide · humans approve · logs prove.</b></i></p>
 
 **Engineering stack**
 
