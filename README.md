@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Himani Sharma</h1>
-<h3 align="center">AI-Native Product Manager · Fintech</h3>
+<h1 align="center">Hi, I'm Himani Sharma</h1>
+<h3 align="center">Payments & Fintech PM · a PM who builds</h3>
 
 <p align="center">
-  🌐 <b>Live portfolio</b> → <a href="https://himanisharrma.vercel.app"><b>himanisharrma.vercel.app</b></a>
+  Consumer-fintech roots at Paytm, product ownership at a payments aggregator, now building with AI.
 </p>
 
 <p align="center">
-  Product manager for <b>AI-native products in fintech</b> — I own the arc from discovery and strategy
-  through roadmap, architecture, and launch. Rare for a PM, I also build hands-on. Most recently I took
-  <b>KYC, Re-KYC & compliance</b> platforms from zero to shipped with agentic AI tooling.
+  🌐 <b>Live portfolio</b> → <a href="https://himanisharrma.vercel.app"><b>himanisharrma.vercel.app</b></a>
 </p>
 
 <p align="center">
@@ -21,18 +19,57 @@
 
 ---
 
-### 🚀 About Me
+### About me
 
-- 🎯 I own **AI-native products end-to-end** in fintech — discovery, strategy, roadmap, and delivery — turning ambiguous problems into shipped software
-- 🤖 **A PM who can build:** I prototype and ship hands-on across a broad, multi-vendor AI stack — coding agents, Cowork, MCP, RAG/evals, and more (full toolkit below) — so ideas become working products, not just decks
-- 🏦 Fintech across **KYC/RegTech, payments ops & GTM** — most recent depth: RBI KYC · V-CIP · Re-KYC · maker-checker · audit & PII
-- 📐 How I think about AI in products: *AI assists · rules decide · humans approve · logs prove*
-- 🌱 Currently exploring: **multi-agent orchestration** — role-specialized agent pods, clean hand-offs, and reliability beyond a single agent
-- 📫 Reach me at **himani1666@gmail.com** — full case studies & diagrams live in my [portfolio hub](https://github.com/himanisharrma/portfolio)
+I'm a payments and fintech product manager. At Paytm I worked across UPI (P2M and P2P), lending and co-branded cards. As a Product Associate at SabPaisa, a payments aggregator, I shipped from spec to launch, took new products to market, and contributed to the annual operating plan.
+
+I also build with AI, so the products I design, I can ship myself.
 
 ---
 
-### 🛠️ Tech & AI Toolkit
+### What I do
+
+| | |
+|---|---|
+| 💳 **Payments & Fintech** — consumer & B2B | UPI & payments · lending & cards · collections & payouts |
+| 🛠️ **A fintech PM who builds** | I use AI to turn product ideas into working software I can test and ship |
+| 📈 **Commercial & Growth** | market research, GTM, pricing & positioning (the SabPaisa 3.0 launch) |
+| 🔁 **Reconciliation & Settlement** | PayOps — a self-built control room: match, net-settle, exception states |
+
+---
+
+### Experience
+
+| When | Role | What I did |
+|---|---|---|
+| **2025 – now** | Product Associate · **SabPaisa** (payments aggregator) | Product delivery, GTM and partner-bank pitches for the 3.0 payments launch. Shipped the platform's first merchant **re-verification** flow, frontend and backend, live to **~135 merchants** in the opening cycle — with a **configurable risk trigger** so re-verification policy can change without an engineering cycle. |
+| **2025** | Product Associate (freelance) · **YourGold** | Integrated Cashfree's UPI gateway for live gold buy/sell and **payout** flows — onboarding, verification and error-recovery for reliable disbursements. |
+| **2021 – 24** | Product Operations Associate · **Paytm** | 10+ products — Postpaid, Personal Loans, co-branded Cards; key role in the **UPI rollout** (P2M online & offline, and P2P). Data-driven enhancements lifting **productivity ~93%** and **quality ~96%**. R&R award. |
+
+<p align="center"><i>In the press: <a href="https://www.tribuneindia.com/news/business/sabpaisa-shatters-records-with-14-product-launch-in-single-day-powered-by-ai-human-collaboration/">SabPaisa's AI-first 14-product launch →</a></i></p>
+
+---
+
+### Selected work
+
+<p align="center"><i>Payments products, built end-to-end. Feature highlights, not line counts.</i></p>
+
+| Project | What it is | Highlights |
+|---|---|---|
+| [**PayOps Copilot**](https://github.com/himanisharrma/payops-copilot) | Reconciliation & settlement control room — matches orders, gateway exports and bank settlements, nets settlement after fees & GST, sorts every order into six states | 88 tests · 18 migrations · AI-bounded |
+| [**Identity Verification Platform**](https://github.com/himanisharrma/Identity-Verification-Amazon-Rekognition) | Video identity verification for merchant onboarding — liveness, face-match, maker-checker, full audit trail | Live face-match · agent review · approver flow |
+| [**Customer Onboarding Portal**](https://github.com/himanisharrma/re-kyc-with-landing-page) | Full-stack merchant onboarding & re-verification — multi-role workflow, configurable triggers | 5-role workflow · trigger-config · React + Node |
+| [**Compliance Intelligence**](https://github.com/himanisharrma/rekyc-compliance-module) | Grounded Q&A over the RBI KYC rules — hybrid retrieval, cited answers, eval-gated | Hybrid retrieval · 12-case eval · cited answers |
+| [**FinVerge Sales Skills**](https://github.com/himanisharrma/finverge-sales-skills) | A Claude Code plugin automating GTM collateral over a permission-aware knowledge base | 8 skills · permission-aware KB · GTM tooling |
+| [**Agentic Verification (MCP)**](https://github.com/himanisharrma/video-kyc-hackathon) | A 6-tool MCP server for assisted verification — safety gates, PII-masked at the boundary | 6 tools · safety gates · PII-masked |
+
+<p align="center"><i>Full case studies & diagrams → <a href="https://himanisharrma.vercel.app">himanisharrma.vercel.app</a> · <a href="https://github.com/himanisharrma/portfolio">portfolio hub</a></i></p>
+
+---
+
+### How I build with AI
+
+<p align="center"><i>Working knowledge — the toolkit behind "a PM who builds." My rule: <b>AI assists · rules decide · humans approve · logs prove.</b></i></p>
 
 **Engineering stack**
 
@@ -40,7 +77,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,vite,nodejs,express,socketio,python,flask,postgres,mysql,sqlite,redis,sequelize,aws,docker,githubactions,jest,playwright,bash,git,figma&perline=9" alt="Tech stack" />
 </p>
 
-**How I build with AI**
+**Agentic AI**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
@@ -64,7 +101,8 @@
   <img src="https://img.shields.io/badge/AWS_AI-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS AI" />
 </p>
 
-**My AI-native toolkit**
+<details>
+<summary><b>Full toolkit</b></summary>
 
 | Layer | Tools |
 |---|---|
@@ -76,46 +114,11 @@
 | 📊 Data · notes · research | ChatGPT Advanced Data Analysis · Claude analysis tool · vision-OCR · Otter · Fireflies |
 | 🎨 Multimodal & cloud | AWS Rekognition / Textract / Comprehend · Midjourney / DALL·E / Ideogram · Runway / Pika / Kling / Veo · HeyGen / Synthesia · ElevenLabs |
 
----
-
-### 📌 Recent Work
-
-<p align="center"><i>Fintech, built end-to-end with AI — spanning KYC/RegTech, payments ops, and GTM automation.</i></p>
-
-| Project | What it is | Highlight |
-|---|---|---|
-| [**Identity-Verification-Amazon-Rekognition**](https://github.com/himanisharrma/Identity-Verification-Amazon-Rekognition) | Extended AWS's Rekognition identity-verification sample into a full **RBI Video-KYC platform** — WebRTC liveness + Maker-Checker on a 32-migration schema | **141K LOC · ~3,000 tests** |
-| [**rekyc-compliance-module**](https://github.com/himanisharrma/rekyc-compliance-module) | Periodic Re-KYC engine + **eval-measured RAG** over the RBI KYC Master Direction (BM25, prompt caching) | **34K LOC · 12/12 evals** |
-| [**video-kyc-hackathon**](https://github.com/himanisharrma/video-kyc-hackathon) | Video KYC app + a **6-tool MCP server** with PII masking & human-gated verdicts | **9K LOC · 6-tool MCP** |
-| [**re-kyc-with-landing-page**](https://github.com/himanisharrma/re-kyc-with-landing-page) | Full-stack **multi-role KYC platform** with bulk Excel-driven Re-KYC triggers | **59K LOC · 5-role** |
-| [**finverge-sales-skills**](https://github.com/himanisharrma/finverge-sales-skills) | **Claude Code plugin** automating sales collateral via a permission-aware dual knowledge base | **17K LOC · 8 skills** |
-| [**payops-copilot**](https://github.com/himanisharrma/payops-copilot) | Evidence-first **payment-reconciliation** workspace | **11K LOC · recon** |
-
-<p align="center"><i>🗂️ All case studies, architecture diagrams & my AI toolkit live in the <a href="https://github.com/himanisharrma/portfolio">portfolio hub →</a></i></p>
-
----
-
-### 🧠 How I Work With AI
-
-| I design | I enforce | I measure |
-|---|---|---|
-| Agent workflows, context engineering, tool surfaces (MCP), FSM-driven lifecycles | Hooks & guardrails, PII masking at boundaries, human-in-the-loop gates, audit trails | Eval suites before shipping prompts, verification via browser agents, coverage targets |
-
----
-
-### 📊 By the Numbers
-
-<p align="center">
-  <b>300+ commits</b> &nbsp;·&nbsp; <b>~300K LOC</b> across public repos &nbsp;·&nbsp; a <b>6-tool MCP server</b> &nbsp;·&nbsp; a <b>12-case eval suite</b> over a grounded RAG pipeline &nbsp;·&nbsp; an <b>8-skill Claude Code plugin</b> &nbsp;·&nbsp; a <b>32-migration production schema</b> &nbsp;·&nbsp; <b>~3,000 automated tests</b>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanisharrma&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
+</details>
 
 ---
 
 <p align="center">
-  💬 Ask me about: <b>AI-native product management · agentic product development · fintech (payments, KYC, RegTech)</b>
+  💬 <b>Let's talk payments.</b><br/>
+  Open to PM roles · Delhi NCR · Bangalore · Remote · <a href="mailto:himani1666@gmail.com">himani1666@gmail.com</a>
 </p>
-
