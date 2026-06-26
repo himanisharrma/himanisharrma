@@ -42,7 +42,7 @@ I also build with AI, so the products I design, I can ship myself.
 
 | When | Role | What I did |
 |---|---|---|
-| **2025 – now** | Product Associate · **SabPaisa** (payments aggregator) | Product delivery, GTM and partner-bank pitches for the 3.0 payments launch. Shipped the platform's first merchant **re-verification** flow, frontend and backend, live to **~135 merchants** in the opening cycle — with a **configurable risk trigger** so re-verification policy can change without an engineering cycle. |
+| **2025 – now** | Product Associate · **SabPaisa** (payments aggregator) | Product delivery, GTM and partner-bank pitches for the 3.0 payments launch. Shipped the platform's first merchant **re-verification** flow, frontend and backend, live to **~135 merchants** and cutting re-verification turnaround **from weeks to days** — with a **configurable risk trigger** so policy can change without an engineering cycle. |
 | **2025** | Product Associate (freelance) · **YourGold** | Integrated Cashfree's UPI gateway for live gold buy/sell and **payout** flows — onboarding, verification and error-recovery for reliable disbursements. |
 | **2021 – 24** | Product Operations Associate · **Paytm** | 10+ products — Postpaid, Personal Loans, co-branded Cards; key role in the **UPI rollout** (P2M online & offline, and P2P). Data-driven enhancements lifting **productivity ~93%** and **quality ~96%**. R&R award. |
 
