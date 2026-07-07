@@ -22,8 +22,6 @@
 
 I'm a payments and fintech product manager. At Paytm I worked across UPI (P2M and P2P), lending and co-branded cards. As a Product Associate at SabPaisa, a payments aggregator, I shipped from spec to launch, took new products to market, and contributed to the annual operating plan.
 
-I also build with AI, so the products I design, I can ship myself.
-
 ---
 
 ### What I do
