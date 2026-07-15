@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/intro-card.svg" alt="Himani Sharma — Payments & Fintech Product Manager" width="100%">
+</p>
+
+<br/>
+
 <h1 align="center">Hi, I'm Himani Sharma</h1>
 <h3 align="center">Payments & Fintech PM</h3>
 
