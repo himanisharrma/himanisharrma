@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 562 985 62" width="985px" height="62px" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 426 985 22" width="985px" height="22px" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -13,43 +13,31 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="624px" fill="#f6f8fa" rx="15"/>
+<rect width="985px" height="448px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f" class="ascii" font-size="10px">
 <tspan x="15" y="30">                         lg@%w%%%%g%%@%g</tspan>
-<tspan x="15" y="42">                      wg%MMM@w%lg@@M@@MMMMg</tspan>
-<tspan x="15" y="54">                    %M@%gg%MM%@hjwgg@@@@@MMMgh</tspan>
-<tspan x="15" y="66">                  gMMM@%%%%M%gj:::~':|!hw@MMMMg</tspan>
-<tspan x="15" y="78">                l@M@@MMMM@@%h:;;;~''''''~|wMMMM@</tspan>
-<tspan x="15" y="90">               gMM%@MM@MMMgh|:|::::::::;~';j%MMM%</tspan>
-<tspan x="15" y="102">              @M@%@MM@@M@wh!||||||||!!|:;~~:j@MMMl</tspan>
-<tspan x="15" y="114">             MM@@@M@MMM@lj|:::::|||!|||:~'~;|%MMMM</tspan>
-<tspan x="15" y="126">            @MM@MMMMMM%h|;;:|!!jj!|!!!!!j|:;;!@MMMw</tspan>
-<tspan x="15" y="138">           %MMMMMMMMMwj!|jlwg%%wlj||!hlgggwlj|wMMMM</tspan>
-<tspan x="15" y="150">          %MMMMMMMMMwj|!jlhw@%g%wj||;l%g%@hww|jMMMMw</tspan>
-<tspan x="15" y="162">         %MMMMMMMMMMh!;:!jhwggg%w!;~~hlwwwhj|':MMMM@</tspan>
-<tspan x="15" y="174">        @MMMMMMMMMMMh:'..~|!!jjj:' ..;:|!|:;.';@MMM@</tspan>
-<tspan x="15" y="186">       gMMMMMMMMMM@@w:'..'~;:!hl;'';~;jh!!:~'~:MMMMg</tspan>
-<tspan x="15" y="198">     !|%MMMMMMMMM@gww!;;;:|!!llj|jjjj!|lhj!||:hMMMMg</tspan>
-<tspan x="15" y="210">    !|wMMMMMMMMMM@@@@j||!jjjhghjhllllhjhwh!!|!M%@MMM</tspan>
-<tspan x="15" y="222">   j!hMMMMMMMMMMMM@MM%!:|!jhwwlwgggggwljll!|:gM%@MMMM</tspan>
-<tspan x="15" y="234">   !|%MMMMMMM@@MMMMMMM%h!!!jh!!|!jhhj!::|!|!%M@MMMM@MMw</tspan>
-<tspan x="15" y="246">   jl@MMMMMM%@MMMMMMMMMM%lhj!|:::|!!|:::|jwMMMMMMMMMM@Mg</tspan>
-<tspan x="15" y="258">   lwMMMMMMMMMMMMMMMMMMMMM@%wlhjj!!!!!!hgMMMMMMMMMM@@%g%g</tspan>
-<tspan x="15" y="270">  !l%MMMM@@MMMMMMMMMMMMMMMMMM%gwwlllhjhMMMMMMMMMMMMMM@MMMh</tspan>
-<tspan x="15" y="282"> hg@M@MMMMMMMMMMMMMMMMMMMM@@@%llhjj!!|%MMMMMMMMMMMMMM@@Mg</tspan>
-<tspan x="15" y="294">h%%g%@MMMMMMMMMMMMMMMMMMMM%ww%l!!!!||l@M@@MMMMMMMMMMMMM%j</tspan>
-<tspan x="15" y="306">jhjh%@@MM@@@MMMMMMMMMMM@@%Mg!ll|::||jw%M%w%MMM@MMMMMMMMl</tspan>
-<tspan x="15" y="318">~~~jgMMMMMMMMMMMMMMMMMMMM%g@ll!|:;:!jhg@Mwh@M@g%MMMMMMM !</tspan>
-<tspan x="15" y="330">.~.':l@%MMMMMMMMMMMMMMMMMM@%l!;;|:|!jhww@%hwMgwh@MMMMM@h!|</tspan>
-<tspan x="15" y="342"> ~~.~|!|jhlgMMMM%%MMMMMMMMMMl|:;~||:!jhlg@llg%g%MMMM@@Mw||</tspan>
-<tspan x="15" y="354"> .::;;~'~;~~~jgMMgg@MMMMMMMMM%h!:;:::|!lw%ghhg@@%MM@ggMg |</tspan>
-<tspan x="15" y="366">''|!;'  .';;'.'!g@@MMMMMMM%g@MM%wh|;::|jlw%h!jgMM@Mglhwlj</tspan>
-<tspan x="15" y="378">''~||'.....~:~. '!w%MMMMMMlhhw%M@%gh::::!jgg||;wM%M@ljlhj</tspan>
-<tspan x="15" y="390">''';||'.~|~'~:;~. '|h%MMM@h|!jhl%wgww!::::|wl:;~jhjg@wwgjj</tspan>
-<tspan x="15" y="402">.''~:|;'~j|:'~|:~'..';jg@M%hhjjjlllhlj:     l!.. ;'':hjlg</tspan>
-<tspan x="15" y="414">;~~~;||~':j;~'~| ~'.. .~|!jhlhhjhjjh!;''   ' l;   ;'.';':</tspan>
-<tspan x="15" y="426">;;::;:|:~;l:  :  ~~~'....'''~;;hj|!!!:'.'  '  h'   '..'''</tspan>
-<tspan x="15" y="438">';:::  |:~! | ;     ;  ~~''~~~!j;;:|:|;...~   lj.  ....'</tspan>
+<tspan x="15" y="42">                      wg%MMM@w%lg@@M@@@MMMgj</tspan>
+<tspan x="15" y="54">                    %M@%gg%@M%@hjwgg@@@@@MMMgh</tspan>
+<tspan x="15" y="66">                  gMM@@%%%%M%wj:::'':|!jw@MMMMg</tspan>
+<tspan x="15" y="78">                l@M@@MMMM@@%j:;;;~''''''~|l@MMM@</tspan>
+<tspan x="15" y="90">               gM@%@MM@MMMgj|:|::::::::;~';jgMMM@</tspan>
+<tspan x="15" y="102">              @M@%@M@@@M@wh!|||:||||!!|:;~~:j@MMMl</tspan>
+<tspan x="15" y="114">             MM@@@M@MMM@l!:;:::::||||||:~'';:gMMMM</tspan>
+<tspan x="15" y="126">            @MM@MMMMMM%h:;;:|!!jj!||!!jjj!:;;|@MMMw</tspan>
+<tspan x="15" y="138">           %MMMMMMMMMwj!|jlwg%%wlj|||jlgggwlj|wMMMM</tspan>
+<tspan x="15" y="150">          %MMMMMMMMMwj|!jlhw@%g%wj||;l%g%@hlw|jMMMMw</tspan>
+<tspan x="15" y="162">         %MMMMMMMMMMh|;;|jhlgwggl!~'~jllwlhj|':MMMM@</tspan>
+<tspan x="15" y="174">       j@MMMMMMMMMMMh:'..~:|!jj!;. ..~:|!|:~.';@MMM@</tspan>
+<tspan x="15" y="186">       gMMMMMMMMM@%%w:'..'~;:!hl;~':;;jlj!:~~~:MMMMg</tspan>
+<tspan x="15" y="198">     !|%MMMMMMMMM@gww!;;:||!!llj!jjjj!|hhj|||:l@MMM%</tspan>
+<tspan x="15" y="210">    j|wMMMMMMMMMM@@@@h||!jjjlghhllwwlhjhwh!!|!M%%MMM</tspan>
+<tspan x="15" y="222">   j!hMMMMMMMMMMMM@MM%!::|jjwllwwgwwwlhjhh!||%@%MMMMMl</tspan>
+<tspan x="15" y="234">   !!%MMMMMMM%@MMMMMMM@h!!!jj!||!jjjj!::|!|j@MMMMMM@MMg</tspan>
+<tspan x="15" y="246">   jl@MMMMMM%@MMMMMMMMMM%whj!|:::||||:::|jgMMMMMMMMMM%@%</tspan>
+<tspan x="15" y="258">   hwMMMMM@MMMMMMMMMMMMMMMM%gwlhjjjj!!!l%MMMMMMMMMM@@%g%%</tspan>
+<tspan x="15" y="270">  j %MMMM@MMMMMMMMMMMMMMMMMMM%gwwlllhjhMMMMMMMMMMMMMM@MMMh</tspan>
+<tspan x="15" y="282">   @M@MMMMMMMMMMMMMMMMMMMM@%%%hhhj!!|!%MMMMMMMMMMMMMM@@@g</tspan>
+<tspan x="15" y="294">hggg%@MMMMMMMMMMMMMMMMMMMM%wl%l!!!||!l@M@%MMMMMMMMMMMMM%!</tspan>
 </text>
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">himani@fintech ——————————————————————————————————————————————</tspan>
@@ -63,10 +51,11 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Builds</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Claude Code · Cursor · Codex · Copilot · Devin</tspan>
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">React · Node · Python · Postgres · AWS</tspan>
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Certs</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">CSPO®</tspan>
-<tspan x="390" y="470">- Contact ———————————————————————————————————————————————————</tspan>
-<tspan x="390" y="498" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">himani1666@gmail.com</tspan>
-<tspan x="390" y="526" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">in/himanisharmaa</tspan>
-<tspan x="390" y="554" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">himanisharrma.vercel.app</tspan>
-<tspan x="390" y="594" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="ok">Open to Product Manager roles</tspan>
+<tspan x="390" y="250" class="cc">. </tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="ok">Open to Product Manager roles</tspan>
+<tspan x="390" y="330">- Contact ———————————————————————————————————————————————————</tspan>
+<tspan x="390" y="358" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">himani1666@gmail.com</tspan>
+<tspan x="390" y="386" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">in/himanisharmaa</tspan>
+<tspan x="390" y="414" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">himanisharrma.vercel.app</tspan>
 </text>
 </svg>
