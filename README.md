@@ -11,7 +11,7 @@
 <h3 align="center">Payments & Fintech PM</h3>
 
 <p align="center">
-  Consumer-fintech roots at Paytm, product ownership at a payments aggregator, now building with AI.
+  Consumer-fintech roots at Paytm, product ownership at SabPaisa, now building with AI.
 </p>
 
 <p align="center">
