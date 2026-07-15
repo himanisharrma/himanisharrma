@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="480px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="444px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -13,30 +13,41 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="480px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">                ;'~~~~''~:</tspan>
-<tspan x="15" y="50">              ~~~''~|;~''..;</tspan>
-<tspan x="15" y="70">            ~..'~';jlwglh!~ .|</tspan>
-<tspan x="15" y="90">           ''''..:jhhhhhlwh;.</tspan>
-<tspan x="15" y="110">         |.''. .|hhhhjjjhwwh' '</tspan>
-<tspan x="15" y="130">         .'.  '|hj!|!jj!!!jh:</tspan>
-<tspan x="15" y="150">        '.   '!j|;'';!h!~'~:!  ~</tspan>
-<tspan x="15" y="170">       '     ~hwh!::|lgh||!lw. .</tspan>
-<tspan x="15" y="190">      ~     ';lgglh|hgll!!hwl. '</tspan>
-<tspan x="15" y="210">     !.  .  '~!hj!|:||:||:!h:. .</tspan>
-<tspan x="15" y="230">    !~   ..   'jj!:|::::!!j!....~</tspan>
-<tspan x="15" y="250">    |'.  '     .:!!hhjjhlj:   ...'!</tspan>
-<tspan x="15" y="270">   j;....        .~:||!!:.     .'''</tspan>
-<tspan x="15" y="290">  !;'....        '';||!!'       ..~</tspan>
-<tspan x="15" y="310"> !|:~...'      .'~:|hhj|'~' .    .</tspan>
-<tspan x="15" y="330">wwgw:..        .'~|jhhj|;~:.~~   ~</tspan>
-<tspan x="15" y="350"> @%%g!|;;. ''.   .:lwhj!|~:;~~. ..</tspan>
-<tspan x="15" y="370"> @@ll%@g w|'~..  ..'|j  !;~!;...:~!</tspan>
-<tspan x="15" y="390">%g%l %@@g %g|~   ||~'~| hj:|h;'';:|</tspan>
-<tspan x="15" y="410"> %%g  ghwghg@w|'.:!!:;;|h  |l%lh|::j</tspan>
-<tspan x="15" y="430">gwlwl wjjwlh %@gh!!!!!|hg wlj  g%wl</tspan>
-<tspan x="15" y="450"> g   h hjh    wg%gwhjljjg% w h @ %g</tspan>
+<rect width="985px" height="444px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii" font-size="10px">
+<tspan x="15" y="30">                            lglwwwwwwlh</tspan>
+<tspan x="15" y="42">                        hw@MM%g%wM%@@@MM@w</tspan>
+<tspan x="15" y="54">                      gM@%%%@MgM!w@MMMMMMMM%h</tspan>
+<tspan x="15" y="66">                    wMMM@gg%M@@l:||;|hhw%MMMM@j</tspan>
+<tspan x="15" y="78">                  h@M@MMMM@@Ml:~;~'..'''~!gMMMMh</tspan>
+<tspan x="15" y="90">                 wM@%@MMMMM@h:;|:::::::;'.;h@MMM!</tspan>
+<tspan x="15" y="102">                @M@%@M@@MMgh!|!|||||!!!|;'~:lMMM@</tspan>
+<tspan x="15" y="114">               @M@@MMMMMMw!:;;:::|||||||~.';|MMMMl</tspan>
+<tspan x="15" y="126">              @MMMMMMMM@l|~;:|!jjj!|!jjjj!|;~!MMMM</tspan>
+<tspan x="15" y="138">             gMMMMMMMMgj!|jlwg%%wh|||!wg%gwlh:@MMMl</tspan>
+<tspan x="15" y="150">            gMMMMMMMM@j|:jwhl@gg@g||;!@g%@hll'lMMM@</tspan>
+<tspan x="15" y="162">           %MMMMMMMMM%!;';|jlwwwwj;..:jjhhj!~.jMMMM</tspan>
+<tspan x="15" y="174">          @MMMMMMMMMM@!'. .~;:!j!' .'.|!||;'..!MMMM</tspan>
+<tspan x="15" y="186">         !MMMMMMMMM@w%h~''~;:|hgh:||!|!ghj|;:'lMMMM</tspan>
+<tspan x="15" y="198">        :lMMMMMMMMM@%gw::!jjjjgj|jhlhj:!wh!!:|@gMMM</tspan>
+<tspan x="15" y="210">      h|jMMMMMMMMMM@MMM!::!jjgwlg%%gggwhww!|;%MgMMM@</tspan>
+<tspan x="15" y="222">      j:MMMMMMM@@MMMMMM@j:|!jlj!!jhhhj|:|j|:gM@MMMMMMh</tspan>
+<tspan x="15" y="234">       lMMMMMM@%MMMMMMMMM%hjj!|:::|!!:;::|h@MMMMMMMM@Mg</tspan>
+<tspan x="15" y="246">      lgMMMMMMMMMMMMMMMMMMM@gwljj!!!!!|!w@MMMMMMMM@M%g@%</tspan>
+<tspan x="15" y="258">     !l@MMMM@MMMMMMMMMMMMMMMMM%%gwwllh!MMMMMMMMMMMMM@MMM!</tspan>
+<tspan x="15" y="270">    l@MMMMMMMMMMMMMMMMMMMMM@@@%hhhj!!:lMMMMMMMMMMMMMM@Mw</tspan>
+<tspan x="15" y="282">   h@gg%MMMMMMMMMMMMMMMMMMM@lh@h|!!||j@M%%MMMMMMMMMMMM%</tspan>
+<tspan x="15" y="294">jhh!||hM@@M@M@MMMMMMMMMMM@@%@|lh:;:|!lgM@lgMMMgMMMMMMM! !</tspan>
+<tspan x="15" y="306">;'~~'~|gMMMMMMMMMMMMMMMMMMM%@wl;::;|jjw%Mg!@M%wwMMMMMM!!</tspan>
+<tspan x="15" y="318">  ..;. ~llw%MMMMMM@MMMMMMMMM@j;~~|:|!hll%@jlMghwMMMMMMw|</tspan>
+<tspan x="15" y="330"> ....''::;;   j%MM%w%MMMMMMMM%h|~'|: !jhw@whl@%@%MM@wMg !</tspan>
+<tspan x="15" y="342">   ..!!''  ';  .;gM%gMMMMMMM@MM@lh;  ::hwg@jjwMM@M@hw%w|</tspan>
+<tspan x="15" y="354">...'.~j  ..    '  :wMMMMMMMwhw%MM%%h;  :jl@w;:!MM@@h!hhh</tspan>
+<tspan x="15" y="366">.'....    .;;.~  ' .:h%MMMMh:!hh%%g%g! ;  !@!:'|gh%Mwwwjj</tspan>
+<tspan x="15" y="378">......~  '.|l~~~   . .~!g@M@jj!hjghllg::   |%;. '~'|lhw%</tspan>
+<tspan x="15" y="390">'~;;''' ! ''l:'.;!  .   ':jjhwhhjhhlj:''  ~.!l.  ~' .:'!</tspan>
+<tspan x="15" y="402">'.'~   ~  ;.h|; :! '~'..  .''~~;w||jj|...~~'.j!   '.....</tspan>
+<tspan x="15" y="414">~  .;   ~ !'|           ~~..~~'h!~;:|!|...~ . @;    . ..</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">himani@fintech ——————————————————————————————————————————————</tspan>
