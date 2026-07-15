@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="480px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.ok {fill: #3fb950;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="480px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">                ;'~~~~''~:</tspan>
+<tspan x="15" y="50">              ~~~''~|;~''..;</tspan>
+<tspan x="15" y="70">            ~..'~';jlwglh!~ .|</tspan>
+<tspan x="15" y="90">           ''''..:jhhhhhlwh;.</tspan>
+<tspan x="15" y="110">         |.''. .|hhhhjjjhwwh' '</tspan>
+<tspan x="15" y="130">         .'.  '|hj!|!jj!!!jh:</tspan>
+<tspan x="15" y="150">        '.   '!j|;'';!h!~'~:!  ~</tspan>
+<tspan x="15" y="170">       '     ~hwh!::|lgh||!lw. .</tspan>
+<tspan x="15" y="190">      ~     ';lgglh|hgll!!hwl. '</tspan>
+<tspan x="15" y="210">     !.  .  '~!hj!|:||:||:!h:. .</tspan>
+<tspan x="15" y="230">    !~   ..   'jj!:|::::!!j!....~</tspan>
+<tspan x="15" y="250">    |'.  '     .:!!hhjjhlj:   ...'!</tspan>
+<tspan x="15" y="270">   j;....        .~:||!!:.     .'''</tspan>
+<tspan x="15" y="290">  !;'....        '';||!!'       ..~</tspan>
+<tspan x="15" y="310"> !|:~...'      .'~:|hhj|'~' .    .</tspan>
+<tspan x="15" y="330">wwgw:..        .'~|jhhj|;~:.~~   ~</tspan>
+<tspan x="15" y="350"> @%%g!|;;. ''.   .:lwhj!|~:;~~. ..</tspan>
+<tspan x="15" y="370"> @@ll%@g w|'~..  ..'|j  !;~!;...:~!</tspan>
+<tspan x="15" y="390">%g%l %@@g %g|~   ||~'~| hj:|h;'';:|</tspan>
+<tspan x="15" y="410"> %%g  ghwghg@w|'.:!!:;;|h  |l%lh|::j</tspan>
+<tspan x="15" y="430">gwlwl wjjwlh %@gh!!!!!|hg wlj  g%wl</tspan>
+<tspan x="15" y="450"> g   h hjh    wg%gwhjljjg% w h @ %g</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">himani@fintech ——————————————————————————————————————————————</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Payments &amp; Fintech Product Manager</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Now</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Products &amp; GTM at a payments aggregator</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Past</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Ex-Paytm · YourGold</tspan>
+<tspan x="390" y="110" class="cc">. </tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Consumer</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">UPI · cards · lending · collections · payouts</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">B2B</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">payment gateway · settlements · GTM &amp; pricing</tspan>
+<tspan x="390" y="170" class="cc">. </tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Builds</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Claude Code · Cursor · Codex · Copilot · Devin</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">React · Node · Python · Postgres · AWS</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Certs</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">CSPO®</tspan>
+<tspan x="390" y="270">- Contact ———————————————————————————————————————————————————</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">himani1666@gmail.com</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">in/himanisharmaa</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">himanisharrma.vercel.app</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="ok">Open to Product Manager roles</tspan>
+</text>
+</svg>

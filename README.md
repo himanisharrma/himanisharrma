@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/intro-card.svg" alt="Himani Sharma — Payments & Fintech Product Manager" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-card-dark.svg">
+    <img src="./assets/intro-card-light.svg" alt="Himani Sharma — Payments & Fintech Product Manager" width="100%">
+  </picture>
 </p>
 
 <br/>
