@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="468px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="624px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -13,7 +13,7 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="468px" fill="#161b22" rx="15"/>
+<rect width="985px" height="624px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii" font-size="10px">
 <tspan x="15" y="30">                         lg@%w%%%%g%%@%g</tspan>
 <tspan x="15" y="42">                      wg%MMM@w%lg@@M@@MMMMg</tspan>
@@ -63,10 +63,10 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Builds</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Claude Code · Cursor · Codex · Copilot · Devin</tspan>
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">React · Node · Python · Postgres · AWS</tspan>
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Certs</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">CSPO®</tspan>
-<tspan x="390" y="270">- Contact ———————————————————————————————————————————————————</tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">himani1666@gmail.com</tspan>
-<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">in/himanisharmaa</tspan>
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">himanisharrma.vercel.app</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="ok">Open to Product Manager roles</tspan>
+<tspan x="390" y="470">- Contact ———————————————————————————————————————————————————</tspan>
+<tspan x="390" y="498" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">himani1666@gmail.com</tspan>
+<tspan x="390" y="526" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">in/himanisharmaa</tspan>
+<tspan x="390" y="554" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">himanisharrma.vercel.app</tspan>
+<tspan x="390" y="594" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="ok">Open to Product Manager roles</tspan>
 </text>
 </svg>

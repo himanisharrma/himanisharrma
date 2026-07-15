@@ -1,7 +1,23 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-card-dark.svg">
-    <img src="./assets/intro-card-light.svg" alt="Himani Sharma — Payments & Fintech Product Manager" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-card-dark-slice-top.svg">
+    <img src="./assets/intro-card-light-slice-top.svg" alt="Himani Sharma — Payments & Fintech Product Manager" width="100%">
+  </picture>
+  <a href="mailto:himani1666@gmail.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-card-dark-slice-email.svg">
+    <img src="./assets/intro-card-light-slice-email.svg" alt="Email: himani1666@gmail.com" width="100%">
+  </picture></a>
+  <a href="https://www.linkedin.com/in/himanisharmaa/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-card-dark-slice-linkedin.svg">
+    <img src="./assets/intro-card-light-slice-linkedin.svg" alt="LinkedIn: in/himanisharmaa" width="100%">
+  </picture></a>
+  <a href="https://himanisharrma.vercel.app"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-card-dark-slice-web.svg">
+    <img src="./assets/intro-card-light-slice-web.svg" alt="Portfolio: himanisharrma.vercel.app" width="100%">
+  </picture></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-card-dark-slice-bottom.svg">
+    <img src="./assets/intro-card-light-slice-bottom.svg" alt="Status: Open to Product Manager roles" width="100%">
   </picture>
 </p>
 
